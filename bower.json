@@ -1,6 +1,6 @@
 {
-    "name": "griddle",
-    "version": "0.3.0",
+    "name": "griddle-custom",
+    "version": "0.3.1",
     "main": [
         "_griddle.scss",
         "_griddle-build.scss"
@@ -9,7 +9,7 @@
     "homepage": "http://necolas.github.com/griddle/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/necolas/griddle.git"
+        "url": "https://github.com/wesm87/griddle.git"
     },
     "licenses": [{
         "type": "MIT",
